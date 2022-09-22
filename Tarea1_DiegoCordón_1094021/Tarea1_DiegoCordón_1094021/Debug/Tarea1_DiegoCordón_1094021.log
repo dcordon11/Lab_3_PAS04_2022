@@ -1,0 +1,6 @@
+﻿  Tarea1_DiegoCordón_1094021.cpp
+C:\Users\dcord\Documents\Progra Avanzada 2022\Tarea1_DiegoCordón_1094021\Tarea1_DiegoCordón_1094021\Tarea1_DiegoCordón_1094021.cpp(100,17): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\dcord\Documents\Progra Avanzada 2022\Tarea1_DiegoCordón_1094021\Tarea1_DiegoCordón_1094021\Tarea1_DiegoCordón_1094021.cpp(85,12): warning C4101: 'decimal': variable local sin referencia
+C:\Users\dcord\Documents\Progra Avanzada 2022\Tarea1_DiegoCordón_1094021\Tarea1_DiegoCordón_1094021\Tarea1_DiegoCordón_1094021.cpp(86,9): warning C4101: 'arreglo': variable local sin referencia
+C:\Users\dcord\Documents\Progra Avanzada 2022\Tarea1_DiegoCordón_1094021\Tarea1_DiegoCordón_1094021\Tarea1_DiegoCordón_1094021.cpp(160,9): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\dcord\Documents\Progra Avanzada 2022\Tarea1_DiegoCordón_1094021\Tarea1_DiegoCordón_1094021\Tarea1_DiegoCordón_1094021.cpp(156): error C4700: se utilizó la variable local 'numeroConvertir' sin inicializar
